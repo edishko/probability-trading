@@ -1,3 +1,4 @@
+# src/strategy.py
 from backtesting import Strategy
 import pandas as pd
 
